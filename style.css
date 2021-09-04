@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 html,body, ul, h1, h2, h3, h4, h5, h6, p, form, input, div {
     margin: 0;
@@ -6,7 +6,7 @@ html,body, ul, h1, h2, h3, h4, h5, h6, p, form, input, div {
 }
 
 body {
-    font-family: ;
+    font-family: 'Quicksand', sans-serif;
 }
 
 li {
@@ -38,4 +38,16 @@ li {
      list-style-type: none;
      display: list-item;
      text-align: -webkit-match-parent;
+ }
+
+ main {
+     padding: 100px 80px 100px 80px;
+ }
+
+ .container h1 {
+     font-size: 140px;
+ }
+
+ .container span {
+     color: #ff4a4a;
  }
